@@ -1,11 +1,15 @@
 # DLX-Sudoku-Solver
 A Sudoku-solving algorithm that utilizes Dancing Links and Algorithm X by Dr. Donald Knuth
 
+
 REFERENCES
 
-[1]	B. Hanson, “Exact Cover Matrix,” stolaf.edu
-[Online]. Available: https://www.stolaf.edu/people/hansonr/sudoku/exactcovermatrix.htm. [Accessed Nov. 29, 2019].
+https://en.wikipedia.org/wiki/Knuth%27s_Algorithm_X
 
-[2]	R. Szymanski, “NaiveSudokuSolver.java,” github, September 2014 [Online]. Available: https://github.com/rafalio/dancing-links-java/blob/master/src/dlx/NaiveSudokuSolver.java/. [Accessed Nov. 29, 2019].
+https://en.wikipedia.org/wiki/Dancing_Links
 
-[3]	P. Norvig, “Solving Every Sudoku Puzzle,” Norvig.com, [Online]. Available: http://norvig.com/sudoku.html/. [Accessed Nov. 29, 2019]. 
+https://www.stolaf.edu/people/hansonr/sudoku/exactcovermatrix.htm
+
+https://github.com/rafalio/dancing-links-java/blob/master/src/dlx/NaiveSudokuSolver.java/
+
+http://norvig.com/sudoku.html/
